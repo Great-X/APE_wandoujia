@@ -26,3 +26,5 @@ com.ancun.unicom_101
 com.airmusic.app_117
 com.andromo.dev54199.app245835_10
 com.andromo.dev50010.app156393_10
+com.aou.classes.wallapper_30
+com.annwyn.image.xiaowu_143
