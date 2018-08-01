@@ -53,3 +53,15 @@ com.btows.owfaceswaper_121
 com.cherrytechs.aremote_10
 com.baoyou.quanchang.client1907453_2830
 com.cshr.lovetravel_1423
+com.eesy_652
+com.dw.dwxr2_20
+com.drinkdrankwasted.android.cvt_311
+com.felix.jyhongbao_221
+com.evasion.xiamiweather_23
+com.dream.anstory_204
+com.fenbi.android.solar_770
+com.dtspread.apps.dym_110
+com.example.haitian_102
+com.fhhr.elauncher_10
+com.example.jtxx_227
+com.example.wzrylibao_130
