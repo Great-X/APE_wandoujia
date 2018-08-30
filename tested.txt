@@ -126,3 +126,7 @@ com.nsky.jinsha1_12302
 com.nxapk.zdel_146
 com.newsoso.yoona.video.lwp_106
 com.mxdata.tube.Market_4510
+com.ovelin.guitartu_201
+com.pc28.dashen_504
+com.netease.wfex.uc_138
+com.nineton.loveqzone3_510
