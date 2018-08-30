@@ -130,3 +130,5 @@ com.ovelin.guitartu_201
 com.pc28.dashen_504
 com.netease.wfex.uc_138
 com.nineton.loveqzone3_510
+com.phoneu.goldtoadfish.ue313_141
+com.phonebird_300
