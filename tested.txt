@@ -140,3 +140,11 @@ com.queqianme.speed.app_101
 com.qiliuwu.kratos_310
 com.putitonline.da_10
 com.qigame.lock.halloween_3231
+com.shijiebang.android.offlinemap.mangu_301
+com.simon.june.thirteen.yangyangshuaiqixiezhen_999
+com.ryan.miraculousimage_102
+com.scdqs.camera_116
+com.sanyuan.bjchangxindianpark_14
+com.scy.android.haobudaohang_25
+com.ruixing.bbc_416
+com.shgoo.activity_28
