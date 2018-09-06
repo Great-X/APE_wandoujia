@@ -1,0 +1,80 @@
+title: eu.bischofs.eagleeye
+
+# eu.bischofs.eagleeye
+
+[Google Play Store](https://play.google.com/store/apps/details?id=eu.bischofs.eagleeye)
+
+[Timeline](./vis-timeline.html)
+
+<iframe src="./vis-timeline.html" width="100%" height="500px" style="border:none;"></iframe>
+
+```
+// java.lang.NullPointerException: Attempt to invoke virtual method 'void eu.bischofs.android.commons.a.b.a(android.app.Activity, java.lang.String, java.lang.String, int)' on a null object reference
+// 	at eu.bischofs.eagleeye.m.a(PurchaseDialogFragment.java:111)
+// 	at eu.bischofs.eagleeye.m.a(PurchaseDialogFragment.java:28)
+// 	at eu.bischofs.eagleeye.m$2.onClick(PurchaseDialogFragment.java:88)
+// 	at android.view.View.performClick(View.java:5204)
+// 	at android.view.View.onKeyUp(View.java:9885)
+// 	at android.widget.TextView.onKeyUp(TextView.java:6191)
+// 	at android.view.KeyEvent.dispatch(KeyEvent.java:2664)
+// 	at android.view.View.dispatchKeyEvent(View.java:9240)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.widget.ScrollView.dispatchKeyEvent(ScrollView.java:379)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1640)
+// 	at com.android.internal.policy.PhoneWindow$DecorView.superDispatchKeyEvent(PhoneWindow.java:2395)
+// 	at com.android.internal.policy.PhoneWindow.superDispatchKeyEvent(PhoneWindow.java:1727)
+// 	at android.app.Dialog.dispatchKeyEvent(Dialog.java:753)
+// 	at com.android.internal.policy.PhoneWindow$DecorView.dispatchKeyEvent(PhoneWindow.java:2310)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4127)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4089)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3787)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3844)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3787)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3844)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3787)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3844)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5922)
+// 	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5896)
+// 	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5857)
+// 	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:6025)
+// 	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:323)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+
+```
+
+
+
